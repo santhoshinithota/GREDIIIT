@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.6f640623.css",
+    "main.js": "/static/js/main.98b43811.js",
+    "static/js/787.28cb0dcd.chunk.js": "/static/js/787.28cb0dcd.chunk.js",
+    "static/media/Greddiit_Logo_1.jpg": "/static/media/Greddiit_Logo_1.e3a50f9ea89e3eb4faa4.jpg",
+    "index.html": "/index.html",
+    "main.6f640623.css.map": "/static/css/main.6f640623.css.map",
+    "main.98b43811.js.map": "/static/js/main.98b43811.js.map",
+    "787.28cb0dcd.chunk.js.map": "/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6f640623.css",
+    "static/js/main.98b43811.js"
+  ]
+}
